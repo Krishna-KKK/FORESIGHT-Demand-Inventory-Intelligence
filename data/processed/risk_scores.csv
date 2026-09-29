@@ -1,0 +1,201 @@
+sku_id,category,on_hand_units,on_order_units,lead_time_days,forecast_over_lead_time,forecast_next_28d,stockout_risk,overstock_risk,quadrant,recommended_action,sales_at_risk_inr,capital_locked_inr
+NB-1190,Small Appliances,0.0,0.0,15,341.1,341.1,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,2888339.0,0.0
+NB-1182,Small Appliances,0.0,0.0,5,327.9,448.3,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,2501805.0,0.0
+NB-1171,Textiles,0.0,0.0,12,460.1,460.1,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,2116828.0,0.0
+NB-1001,Decor,109.0,0.0,17,342.5,342.5,0.723,0.0,Reorder now,Raise a replenishment order before stock runs out.,2110171.0,0.0
+NB-1184,Furniture,50.0,0.0,13,404.9,404.9,0.893,0.0,Reorder now,Raise a replenishment order before stock runs out.,1722615.0,0.0
+NB-1197,Decor,0.0,0.0,8,280.8,280.8,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,1701741.0,0.0
+NB-1062,Small Appliances,0.0,0.0,16,241.7,241.7,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,1688318.0,0.0
+NB-1070,Small Appliances,0.0,0.0,6,329.6,373.2,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,1544038.0,0.0
+NB-1048,Furniture,67.0,0.0,11,286.3,286.3,0.797,0.0,Reorder now,Raise a replenishment order before stock runs out.,1465020.0,0.0
+NB-1037,Decor,0.0,0.0,5,178.8,244.8,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,1391474.0,0.0
+NB-1071,Textiles,0.0,0.0,5,192.4,266.3,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,1249356.0,0.0
+NB-1101,Decor,0.0,0.0,6,249.1,285.8,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,1247547.0,0.0
+NB-1169,Decor,0.0,0.0,16,349.0,349.0,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,1206785.0,0.0
+NB-1089,Decor,0.0,0.0,15,417.0,417.0,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,1200374.0,0.0
+NB-1056,Furniture,128.0,0.0,11,332.5,332.5,0.665,0.0,Reorder now,Raise a replenishment order before stock runs out.,1176474.0,0.0
+NB-1018,Small Appliances,0.0,0.0,5,183.0,254.4,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,979586.0,0.0
+NB-1039,Textiles,17.0,0.0,18,218.0,218.0,0.932,0.0,Reorder now,Raise a replenishment order before stock runs out.,953438.0,0.0
+NB-1109,Decor,0.0,0.0,13,246.7,246.7,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,911497.0,0.0
+NB-1040,Furniture,0.0,0.0,11,169.5,169.5,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,873102.0,0.0
+NB-1187,Textiles,18.0,0.0,8,157.4,157.4,0.901,0.0,Reorder now,Raise a replenishment order before stock runs out.,842484.0,0.0
+NB-1163,Textiles,0.0,0.0,8,173.5,173.5,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,809226.0,0.0
+NB-1078,Small Appliances,0.0,0.0,20,148.3,148.3,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,769459.0,0.0
+NB-1074,Small Appliances,0.0,0.0,9,440.9,440.9,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,750988.0,0.0
+NB-1110,Small Appliances,0.0,0.0,6,101.4,119.0,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,750782.0,0.0
+NB-1096,Furniture,0.0,0.0,10,166.1,166.1,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,734092.0,0.0
+NB-1198,Small Appliances,121.0,0.0,13,217.6,217.6,0.516,0.0,Reorder now,Raise a replenishment order before stock runs out.,717585.0,0.0
+NB-1100,Furniture,0.0,0.0,13,404.3,404.3,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,679994.0,0.0
+NB-1061,Decor,0.0,0.0,10,125.3,125.3,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,584373.0,0.0
+NB-1021,Decor,0.0,0.0,17,264.6,264.6,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,571805.0,0.0
+NB-1007,Textiles,198.0,0.0,15,390.2,390.2,0.559,0.0,Reorder now,Raise a replenishment order before stock runs out.,543536.0,0.0
+NB-1098,Small Appliances,214.0,0.0,15,277.6,277.6,0.33,0.0,Healthy,No action needed; leave as is.,473813.0,0.0
+NB-1055,Textiles,0.0,0.0,16,388.4,388.4,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,464313.0,0.0
+NB-1033,Decor,0.0,0.0,17,81.5,81.5,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,456669.0,0.0
+NB-1153,Decor,0.0,0.0,6,359.1,407.9,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,448103.0,0.0
+NB-1133,Decor,0.0,0.0,10,75.2,75.2,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,447320.0,0.0
+NB-1122,Small Appliances,0.0,0.0,12,419.6,419.6,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,366893.0,0.0
+NB-1166,Small Appliances,0.0,0.0,6,352.2,399.0,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,366619.0,0.0
+NB-1050,Small Appliances,0.0,0.0,7,73.6,73.6,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,348026.0,0.0
+NB-1125,Decor,0.0,0.0,10,55.7,55.7,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,347613.0,0.0
+NB-1176,Furniture,0.0,0.0,13,147.8,147.8,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,339627.0,0.0
+NB-1022,Small Appliances,43.0,0.0,12,104.2,104.2,0.641,0.0,Reorder now,Raise a replenishment order before stock runs out.,328857.0,0.0
+NB-1000,Furniture,0.0,0.0,9,70.4,70.4,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,314938.0,0.0
+NB-1027,Textiles,0.0,0.0,7,135.0,135.0,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,313579.0,0.0
+NB-1156,Furniture,0.0,0.0,7,275.0,275.0,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,290591.0,0.0
+NB-1082,Small Appliances,0.0,0.0,7,88.1,88.1,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,290431.0,0.0
+NB-1020,Furniture,0.0,0.0,9,67.9,67.9,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,283488.0,0.0
+NB-1059,Textiles,0.0,0.0,5,208.4,285.5,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,258954.0,0.0
+NB-1165,Decor,306.0,0.0,13,389.0,389.0,0.316,0.0,Healthy,No action needed; leave as is.,242341.0,0.0
+NB-1155,Textiles,0.0,0.0,5,175.7,245.6,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,236660.0,0.0
+NB-1160,Furniture,263.0,0.0,13,349.8,349.8,0.346,0.0,Healthy,No action needed; leave as is.,227787.0,0.0
+NB-1102,Small Appliances,0.0,152.0,10,202.8,202.8,0.348,0.0,Healthy,No action needed; leave as is.,220078.0,0.0
+NB-1092,Furniture,20.0,0.0,5,60.5,86.1,0.712,0.0,Reorder now,Raise a replenishment order before stock runs out.,216373.0,0.0
+NB-1180,Furniture,1.0,0.0,11,40.5,40.5,0.979,0.0,Reorder now,Raise a replenishment order before stock runs out.,189287.0,0.0
+NB-1068,Furniture,37.0,0.0,6,174.7,198.7,0.816,0.0,Reorder now,Raise a replenishment order before stock runs out.,188031.0,0.0
+NB-1013,Decor,0.0,0.0,13,65.8,65.8,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,183870.0,0.0
+NB-1189,Decor,85.0,0.0,13,285.0,285.0,0.741,0.0,Reorder now,Raise a replenishment order before stock runs out.,172504.0,0.0
+NB-1124,Furniture,232.0,0.0,8,351.5,351.5,0.426,0.0,Healthy,No action needed; leave as is.,171668.0,0.0
+NB-1167,Textiles,0.0,0.0,10,113.9,113.9,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,171492.0,0.0
+NB-1002,Small Appliances,133.0,0.0,8,264.2,264.2,0.562,0.0,Reorder now,Raise a replenishment order before stock runs out.,163799.0,0.0
+NB-1185,Decor,0.0,0.0,6,302.9,347.8,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,150460.0,0.0
+NB-1175,Textiles,0.0,0.0,7,51.3,51.3,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,147313.0,0.0
+NB-1011,Textiles,0.0,252.0,11,282.5,282.5,0.224,0.0,Healthy,No action needed; leave as is.,134222.0,0.0
+NB-1104,Furniture,0.0,0.0,6,28.4,35.8,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,116449.0,0.0
+NB-1093,Decor,15.0,0.0,5,33.5,50.6,0.611,0.0,Reorder now,Raise a replenishment order before stock runs out.,88026.0,0.0
+NB-1073,Decor,0.0,0.0,5,105.3,146.4,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,86560.0,0.0
+NB-1058,Small Appliances,43.0,0.0,17,285.9,285.9,0.869,0.0,Reorder now,Raise a replenishment order before stock runs out.,82878.0,0.0
+NB-1036,Furniture,10.0,0.0,5,55.4,76.9,0.843,0.0,Reorder now,Raise a replenishment order before stock runs out.,48890.0,0.0
+NB-1128,Furniture,28.0,0.0,10,41.0,41.0,0.406,0.0,Healthy,No action needed; leave as is.,47435.0,0.0
+NB-1164,Furniture,28.0,0.0,5,35.6,51.1,0.316,0.0,Healthy,No action needed; leave as is.,39692.0,0.0
+NB-1116,Furniture,15.0,0.0,9,22.3,22.3,0.416,0.0,Healthy,No action needed; leave as is.,37812.0,0.0
+NB-1118,Small Appliances,0.0,0.0,19,84.7,84.7,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,37454.0,0.0
+NB-1017,Decor,65.0,0.0,8,72.3,72.3,0.218,0.0,Healthy,No action needed; leave as is.,29752.0,0.0
+NB-1168,Furniture,0.0,0.0,7,21.0,21.0,1.0,0.0,Reorder now,Raise a replenishment order before stock runs out.,12935.0,0.0
+NB-1087,Textiles,464.0,0.0,10,466.0,466.0,0.134,0.0,Healthy,No action needed; leave as is.,7042.0,0.0
+NB-1091,Textiles,171.0,0.0,6,171.6,198.1,0.134,0.0,Healthy,No action needed; leave as is.,4508.0,0.0
+NB-1143,Textiles,1561.0,0.0,20,508.0,508.0,0.0,0.675,Markdown / clear,Promote or discount to free up capital.,0.0,3891925.0
+NB-1097,Decor,1190.0,0.0,19,324.0,324.0,0.0,0.728,Markdown / clear,Promote or discount to free up capital.,0.0,3326980.0
+NB-1029,Decor,1136.0,0.0,20,408.8,408.8,0.0,0.64,Markdown / clear,Promote or discount to free up capital.,0.0,2822387.0
+NB-1108,Furniture,915.0,0.0,11,201.6,201.6,0.0,0.78,Markdown / clear,Promote or discount to free up capital.,0.0,2111246.0
+NB-1069,Decor,1172.0,0.0,17,225.0,225.0,0.0,0.808,Markdown / clear,Promote or discount to free up capital.,0.0,2077294.0
+NB-1139,Textiles,1102.0,0.0,15,262.2,262.2,0.0,0.762,Markdown / clear,Promote or discount to free up capital.,0.0,1976903.0
+NB-1147,Textiles,1448.0,0.0,16,106.9,106.9,0.0,0.926,Markdown / clear,Promote or discount to free up capital.,0.0,1821844.0
+NB-1049,Decor,803.0,0.0,12,355.4,355.4,0.0,0.557,Markdown / clear,Promote or discount to free up capital.,0.0,1680150.0
+NB-1127,Textiles,576.0,0.0,15,166.2,166.2,0.0,0.711,Markdown / clear,Promote or discount to free up capital.,0.0,1607969.0
+NB-1052,Furniture,1487.0,895.0,15,326.7,326.7,0.0,0.78,Markdown / clear,Promote or discount to free up capital.,0.0,1585325.0
+NB-1140,Furniture,816.0,1220.0,16,223.4,223.4,0.0,0.726,Markdown / clear,Promote or discount to free up capital.,0.0,1567269.0
+NB-1159,Textiles,823.0,0.0,18,176.1,176.1,0.0,0.786,Markdown / clear,Promote or discount to free up capital.,0.0,1557588.0
+NB-1034,Small Appliances,726.0,0.0,19,81.0,81.0,0.0,0.888,Markdown / clear,Promote or discount to free up capital.,0.0,1547309.0
+NB-1123,Textiles,678.0,0.0,15,185.2,185.2,0.0,0.727,Markdown / clear,Promote or discount to free up capital.,0.0,1398481.0
+NB-1012,Furniture,1121.0,0.0,18,94.4,94.4,0.0,0.916,Markdown / clear,Promote or discount to free up capital.,0.0,1388576.0
+NB-1063,Textiles,923.0,0.0,12,418.6,418.6,0.0,0.546,Markdown / clear,Promote or discount to free up capital.,0.0,1362877.0
+NB-1006,Small Appliances,456.0,0.0,10,148.3,148.3,0.0,0.675,Markdown / clear,Promote or discount to free up capital.,0.0,1196127.0
+NB-1136,Furniture,505.0,0.0,20,75.4,75.4,0.0,0.851,Markdown / clear,Promote or discount to free up capital.,0.0,1075063.0
+NB-1054,Small Appliances,335.0,0.0,17,57.4,57.4,0.0,0.829,Markdown / clear,Promote or discount to free up capital.,0.0,1042868.0
+NB-1134,Small Appliances,770.0,0.0,16,206.7,206.7,0.0,0.732,Markdown / clear,Promote or discount to free up capital.,0.0,960742.0
+NB-1112,Furniture,488.0,0.0,18,154.4,154.4,0.0,0.684,Markdown / clear,Promote or discount to free up capital.,0.0,931206.0
+NB-1174,Small Appliances,478.0,0.0,17,70.4,70.4,0.0,0.853,Markdown / clear,Promote or discount to free up capital.,0.0,929127.0
+NB-1149,Decor,530.0,0.0,17,155.9,155.9,0.0,0.706,Markdown / clear,Promote or discount to free up capital.,0.0,921572.0
+NB-1152,Furniture,509.0,0.0,15,176.6,176.6,0.0,0.653,Markdown / clear,Promote or discount to free up capital.,0.0,870004.0
+NB-1038,Small Appliances,445.0,0.0,18,110.7,110.7,0.0,0.751,Markdown / clear,Promote or discount to free up capital.,0.0,810611.0
+NB-1041,Decor,764.0,0.0,19,120.3,120.3,0.0,0.843,Markdown / clear,Promote or discount to free up capital.,0.0,758212.0
+NB-1115,Textiles,386.0,0.0,16,198.3,198.3,0.0,0.486,Healthy,No action needed; leave as is.,0.0,748776.0
+NB-1172,Furniture,531.0,0.0,18,275.9,275.9,0.0,0.48,Healthy,No action needed; leave as is.,0.0,746144.0
+NB-1067,Textiles,527.0,0.0,15,149.0,149.0,0.0,0.717,Markdown / clear,Promote or discount to free up capital.,0.0,736861.0
+NB-1179,Textiles,396.0,0.0,9,85.1,85.1,0.0,0.785,Markdown / clear,Promote or discount to free up capital.,0.0,711618.0
+NB-1004,Furniture,826.0,0.0,19,155.9,155.9,0.0,0.811,Markdown / clear,Promote or discount to free up capital.,0.0,686755.0
+NB-1008,Furniture,412.0,0.0,7,167.4,167.4,0.0,0.594,Markdown / clear,Promote or discount to free up capital.,0.0,679980.0
+NB-1028,Furniture,381.0,0.0,18,207.8,207.8,0.0,0.455,Healthy,No action needed; leave as is.,0.0,667316.0
+NB-1195,Textiles,353.0,0.0,13,100.1,100.1,0.0,0.716,Markdown / clear,Promote or discount to free up capital.,0.0,655661.0
+NB-1066,Small Appliances,288.0,0.0,15,120.9,120.9,0.0,0.58,Markdown / clear,Promote or discount to free up capital.,0.0,646753.0
+NB-1047,Textiles,642.0,0.0,9,453.7,453.7,0.0,0.293,Healthy,No action needed; leave as is.,0.0,629872.0
+NB-1080,Furniture,822.0,0.0,18,85.6,85.6,0.0,0.896,Markdown / clear,Promote or discount to free up capital.,0.0,625068.0
+NB-1131,Textiles,447.0,0.0,11,187.7,187.7,0.0,0.58,Markdown / clear,Promote or discount to free up capital.,0.0,610314.0
+NB-1077,Decor,1002.0,0.0,18,264.3,264.3,0.0,0.736,Markdown / clear,Promote or discount to free up capital.,0.0,606629.0
+NB-1005,Decor,368.0,0.0,11,139.7,139.7,0.0,0.62,Markdown / clear,Promote or discount to free up capital.,0.0,589450.0
+NB-1151,Textiles,374.0,517.0,18,165.5,165.5,0.0,0.558,Markdown / clear,Promote or discount to free up capital.,0.0,583393.0
+NB-1099,Textiles,397.0,397.0,19,159.1,159.1,0.0,0.599,Markdown / clear,Promote or discount to free up capital.,0.0,576095.0
+NB-1121,Decor,492.0,0.0,9,329.8,329.8,0.0,0.33,Healthy,No action needed; leave as is.,0.0,524798.0
+NB-1083,Textiles,208.0,0.0,20,66.8,66.8,0.0,0.679,Markdown / clear,Promote or discount to free up capital.,0.0,523979.0
+NB-1137,Decor,704.0,0.0,10,195.3,195.3,0.0,0.723,Markdown / clear,Promote or discount to free up capital.,0.0,502510.0
+NB-1126,Small Appliances,311.0,0.0,18,149.8,149.8,0.0,0.518,Markdown / clear,Promote or discount to free up capital.,0.0,480041.0
+NB-1141,Decor,261.0,0.0,14,49.4,49.4,0.0,0.811,Markdown / clear,Promote or discount to free up capital.,0.0,479084.0
+NB-1162,Small Appliances,411.0,0.0,7,106.5,106.5,0.0,0.741,Markdown / clear,Promote or discount to free up capital.,0.0,475443.0
+NB-1016,Furniture,621.0,0.0,18,458.7,458.7,0.0,0.261,Healthy,No action needed; leave as is.,0.0,379702.0
+NB-1188,Furniture,244.0,0.0,19,45.4,45.4,0.0,0.814,Markdown / clear,Promote or discount to free up capital.,0.0,333294.0
+NB-1135,Textiles,346.0,0.0,9,87.9,87.9,0.0,0.746,Markdown / clear,Promote or discount to free up capital.,0.0,315071.0
+NB-1053,Decor,684.0,0.0,19,93.6,93.6,0.0,0.863,Markdown / clear,Promote or discount to free up capital.,0.0,303273.0
+NB-1177,Decor,229.0,0.0,15,81.5,81.5,0.0,0.644,Markdown / clear,Promote or discount to free up capital.,0.0,300172.0
+NB-1065,Decor,707.0,493.0,19,190.5,190.5,0.0,0.731,Markdown / clear,Promote or discount to free up capital.,0.0,288046.0
+NB-1193,Decor,154.0,0.0,18,20.9,20.9,0.0,0.864,Markdown / clear,Promote or discount to free up capital.,0.0,274644.0
+NB-1086,Small Appliances,280.0,0.0,6,134.1,156.0,0.0,0.443,Healthy,No action needed; leave as is.,0.0,274629.0
+NB-1150,Small Appliances,200.0,0.0,15,128.5,128.5,0.0,0.357,Healthy,No action needed; leave as is.,0.0,274480.0
+NB-1113,Decor,469.0,0.0,14,259.1,259.1,0.0,0.448,Healthy,No action needed; leave as is.,0.0,270156.0
+NB-1130,Small Appliances,100.0,0.0,12,37.5,37.5,0.0,0.625,Markdown / clear,Promote or discount to free up capital.,0.0,245037.0
+NB-1178,Small Appliances,408.0,0.0,7,350.0,350.0,0.0,0.142,Healthy,No action needed; leave as is.,0.0,227030.0
+NB-1031,Textiles,376.0,472.0,9,258.4,258.4,0.0,0.313,Healthy,No action needed; leave as is.,0.0,224055.0
+NB-1192,Furniture,143.0,0.0,14,71.8,71.8,0.0,0.498,Healthy,No action needed; leave as is.,0.0,202777.0
+NB-1132,Furniture,318.0,0.0,12,171.4,171.4,0.0,0.461,Healthy,No action needed; leave as is.,0.0,192019.0
+NB-1042,Small Appliances,466.0,0.0,6,320.0,366.1,0.0,0.214,Healthy,No action needed; leave as is.,0.0,183742.0
+NB-1148,Furniture,160.0,0.0,16,105.5,105.5,0.0,0.341,Healthy,No action needed; leave as is.,0.0,181703.0
+NB-1090,Small Appliances,473.0,0.0,12,362.8,362.8,0.0,0.233,Healthy,No action needed; leave as is.,0.0,177509.0
+NB-1194,Small Appliances,552.0,0.0,20,129.9,129.9,0.0,0.765,Markdown / clear,Promote or discount to free up capital.,0.0,172449.0
+NB-1076,Furniture,388.0,0.0,8,175.4,175.4,0.0,0.548,Markdown / clear,Promote or discount to free up capital.,0.0,157609.0
+NB-1019,Textiles,811.0,0.0,10,240.1,240.1,0.0,0.704,Markdown / clear,Promote or discount to free up capital.,0.0,153367.0
+NB-1044,Furniture,103.0,0.0,20,47.8,47.8,0.0,0.536,Markdown / clear,Promote or discount to free up capital.,0.0,151199.0
+NB-1173,Decor,563.0,0.0,16,314.8,314.8,0.0,0.441,Healthy,No action needed; leave as is.,0.0,146270.0
+NB-1035,Textiles,552.0,0.0,17,90.5,90.5,0.0,0.836,Markdown / clear,Promote or discount to free up capital.,0.0,143156.0
+NB-1064,Furniture,118.0,151.0,16,81.4,81.4,0.0,0.31,Healthy,No action needed; leave as is.,0.0,135879.0
+NB-1085,Decor,232.0,382.0,7,183.7,183.7,0.0,0.208,Healthy,No action needed; leave as is.,0.0,126718.0
+NB-1009,Decor,137.0,0.0,12,58.5,58.5,0.0,0.573,Markdown / clear,Promote or discount to free up capital.,0.0,123753.0
+NB-1103,Textiles,203.0,0.0,17,25.9,25.9,0.0,0.873,Markdown / clear,Promote or discount to free up capital.,0.0,106429.0
+NB-1146,Small Appliances,328.0,0.0,19,42.8,42.8,0.0,0.87,Markdown / clear,Promote or discount to free up capital.,0.0,103796.0
+NB-1026,Small Appliances,127.0,0.0,9,71.6,71.6,0.0,0.436,Healthy,No action needed; leave as is.,0.0,103433.0
+NB-1181,Decor,396.0,0.0,8,219.4,219.4,0.0,0.446,Healthy,No action needed; leave as is.,0.0,100787.0
+NB-1051,Textiles,85.0,0.0,19,59.7,59.7,0.0,0.297,Healthy,No action needed; leave as is.,0.0,90491.0
+NB-1186,Small Appliances,60.0,0.0,16,27.7,27.7,0.0,0.538,Markdown / clear,Promote or discount to free up capital.,0.0,88281.0
+NB-1106,Small Appliances,294.0,0.0,15,239.0,239.0,0.0,0.187,Healthy,No action needed; leave as is.,0.0,85290.0
+NB-1191,Textiles,135.0,254.0,19,45.7,45.7,0.0,0.662,Markdown / clear,Promote or discount to free up capital.,0.0,60455.0
+NB-1060,Furniture,249.0,0.0,13,225.0,225.0,0.038,0.096,Healthy,No action needed; leave as is.,0.0,57224.0
+NB-1105,Decor,161.0,0.0,12,145.6,145.6,0.039,0.095,Healthy,No action needed; leave as is.,0.0,55394.0
+NB-1145,Decor,296.0,0.0,8,203.3,203.3,0.0,0.313,Healthy,No action needed; leave as is.,0.0,55230.0
+NB-1142,Small Appliances,120.0,0.0,9,89.7,89.7,0.0,0.253,Healthy,No action needed; leave as is.,0.0,46633.0
+NB-1003,Textiles,177.0,0.0,14,159.8,159.8,0.037,0.097,Healthy,No action needed; leave as is.,0.0,45138.0
+NB-1024,Furniture,226.0,0.0,10,141.6,141.6,0.0,0.373,Healthy,No action needed; leave as is.,0.0,41905.0
+NB-1129,Decor,109.0,0.0,19,58.4,58.4,0.0,0.464,Healthy,No action needed; leave as is.,0.0,41341.0
+NB-1107,Textiles,33.0,0.0,8,24.7,24.7,0.0,0.251,Healthy,No action needed; leave as is.,0.0,31121.0
+NB-1088,Furniture,114.0,114.0,15,79.3,79.3,0.0,0.305,Healthy,No action needed; leave as is.,0.0,23905.0
+NB-1043,Textiles,430.0,0.0,18,395.8,395.8,0.055,0.079,Healthy,No action needed; leave as is.,0.0,23562.0
+NB-1183,Textiles,103.0,0.0,14,41.1,41.1,0.0,0.601,Markdown / clear,Promote or discount to free up capital.,0.0,20944.0
+NB-1030,Small Appliances,106.0,344.0,11,96.9,96.9,0.0,0.085,Healthy,No action needed; leave as is.,0.0,17014.0
+NB-1138,Small Appliances,168.0,0.0,18,109.9,109.9,0.0,0.346,Healthy,No action needed; leave as is.,0.0,16772.0
+NB-1114,Small Appliances,50.0,0.0,11,40.4,40.4,0.0,0.191,Healthy,No action needed; leave as is.,0.0,12547.0
+NB-1045,Decor,410.0,0.0,7,406.5,406.5,0.123,0.009,Healthy,No action needed; leave as is.,0.0,11038.0
+NB-1094,Small Appliances,96.0,0.0,6,79.1,92.5,0.0,0.037,Healthy,No action needed; leave as is.,0.0,10457.0
+NB-1120,Furniture,206.0,312.0,7,175.3,175.3,0.0,0.149,Healthy,No action needed; leave as is.,0.0,8876.0
+NB-1095,Textiles,93.0,0.0,11,83.3,83.3,0.029,0.105,Healthy,No action needed; leave as is.,0.0,6402.0
+NB-1072,Furniture,65.0,0.0,11,60.5,60.5,0.066,0.069,Healthy,No action needed; leave as is.,0.0,4925.0
+NB-1010,Small Appliances,71.0,49.0,6,61.6,72.7,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0
+NB-1014,Small Appliances,0.0,77.0,5,70.1,97.7,0.045,0.0,Healthy,No action needed; leave as is.,0.0,0.0
+NB-1015,Textiles,0.0,184.0,11,94.6,94.6,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0
+NB-1023,Textiles,0.0,403.0,6,159.4,185.7,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0
+NB-1025,Decor,0.0,376.0,7,271.8,271.8,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0
+NB-1032,Furniture,165.0,347.0,8,228.7,228.7,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0
+NB-1046,Small Appliances,0.0,333.0,6,209.8,238.7,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0
+NB-1057,Decor,0.0,614.0,11,451.0,451.0,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0
+NB-1075,Textiles,0.0,564.0,9,382.4,382.4,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0
+NB-1079,Textiles,12.0,51.0,7,58.0,58.0,0.056,0.0,Healthy,No action needed; leave as is.,0.0,0.0
+NB-1081,Decor,0.0,399.0,8,211.9,211.9,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0
+NB-1084,Furniture,0.0,197.0,13,145.6,145.6,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0
+NB-1111,Textiles,12.0,74.0,9,52.8,52.8,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0
+NB-1117,Decor,0.0,368.0,10,171.2,171.2,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0
+NB-1119,Textiles,0.0,910.0,15,472.7,472.7,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0
+NB-1144,Furniture,112.0,560.0,12,497.4,497.4,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0
+NB-1154,Small Appliances,109.0,217.0,6,223.6,256.8,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0
+NB-1157,Decor,0.0,266.0,9,189.0,189.0,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0
+NB-1158,Small Appliances,111.0,943.0,16,262.5,262.5,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0
+NB-1161,Decor,76.0,0.0,5,53.4,76.9,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0
+NB-1170,Small Appliances,115.0,320.0,6,236.4,269.5,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0
+NB-1196,Furniture,126.0,520.0,12,494.4,494.4,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0
+NB-1199,Textiles,0.0,489.0,13,100.4,100.4,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0

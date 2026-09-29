@@ -1,0 +1,13 @@
+{
+  "sku_master_duplicates_removed": 2,
+  "sku_master_bad_price_rows": 0,
+  "sales_duplicates_removed": 20,
+  "sales_missing_price_rows": 1460,
+  "inventory_duplicates_removed": 0,
+  "output_rows": 146000,
+  "output_skus": 200,
+  "date_range": [
+    "2024-01-01 00:00:00",
+    "2025-12-30 00:00:00"
+  ]
+}

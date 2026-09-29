@@ -1,0 +1,33 @@
+{
+  "wape_baseline": 0.3879937494104372,
+  "wape_model": 0.2871547244143885,
+  "model_beats_baseline": true,
+  "n_folds": 4,
+  "per_fold": [
+    {
+      "fold": 4,
+      "cutoff_date": "2025-12-03 00:00:00",
+      "wape_model": 0.2929716638292141,
+      "wape_baseline": 0.38889722430607654
+    },
+    {
+      "fold": 3,
+      "cutoff_date": "2025-12-10 00:00:00",
+      "wape_model": 0.29328311821618663,
+      "wape_baseline": 0.3952687528073065
+    },
+    {
+      "fold": 2,
+      "cutoff_date": "2025-12-17 00:00:00",
+      "wape_model": 0.2735019872262975,
+      "wape_baseline": 0.3819526978844783
+    },
+    {
+      "fold": 1,
+      "cutoff_date": "2025-12-24 00:00:00",
+      "wape_model": 0.28886212838585573,
+      "wape_baseline": 0.3858563226438874
+    }
+  ],
+  "shipped": "model"
+}
